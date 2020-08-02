@@ -28,6 +28,7 @@ runs/*
 data/*
 !data/samples/zidane.jpg
 !data/samples/bus.jpg
+!data/dice.yaml
 !data/coco.names
 !data/coco_paper.names
 !data/coco.data
